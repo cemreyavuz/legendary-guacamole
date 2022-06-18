@@ -1,0 +1,8 @@
+[package]
+name = "axum-playground"
+version = "0.1.0"
+authors = ["cemreyavuz"]
+
+[dependencies]
+axum = "0.5.8"
+tokio = { version = "1.0", features = ["full"] }
